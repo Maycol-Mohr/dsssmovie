@@ -8,7 +8,6 @@ function Navbar() {
       <nav className="container">
         <div className="dsmovie-nav-content">
           <h1>DSMovie</h1>
-          <h6>STUDENT: MAYCOL MOHR</h6>
           <a href="https://github.com/Maycol-Mohr">
             <div className="dsmovie-contact-container">
               <GithubIcon />
